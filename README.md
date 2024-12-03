@@ -1,2 +1,5 @@
 # Hourly-Energy-Consumption
-In progress 
+In progress...
+
+
+Dataset: https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
